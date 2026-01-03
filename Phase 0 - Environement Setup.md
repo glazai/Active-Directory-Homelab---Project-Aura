@@ -13,7 +13,11 @@ Server Manager Dashboard - This is how the server manager dashboard looks like b
 ![alt text](/images/server_manager_dashboard.PNG)
 
 To sum up, here are the system specifications:
+
 OS: Windows Server 2022(Standard/Evaluation)
+
 Hostname: Aura-DC01
+
 IP Address: 192.168.10.10
+
 RAM/vCPU: 4GB / 2 Cores
