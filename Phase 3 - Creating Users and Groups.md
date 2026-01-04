@@ -15,4 +15,5 @@ Following the above steps we should see something like this:
 ![alt text](/images/final_user_creation.PNG)
 
 The user is now created and under AD Users and Computers we should see this:
+
 ![alt text](/images/user_groups.PNG)
