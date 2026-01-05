@@ -1,4 +1,4 @@
-It is time to add new Users and Groups.
+It is time to add new Users.
 
 We will begin by adding a User manually just to showcase how it is done.
 
