@@ -17,3 +17,16 @@ Even if a user manages to get a local admin right by using exploits, the GPO ref
 It should look like this:
 
 ![alt text](/images/admins_restrictedGroups.PNG)
+
+The second GPO we will implement is Blocking USB Storage. This is a DLP(Data Loss Prevention) method. The goal here is to disable Read/Write access to removable disks for non IT-Users. We want to prevent employees from plugging in unauthorised USB drives that could contain malware or be used to steal company data.
+
+Steps:
+1. Create a new GPO called: SEC-Workstation-USBBlock
+2. Edit it and navigate to: Computer Configuration -> Policies -> Administrative Templates -> System -> Removable Storage Access
+3. Find the setting: All Removable Storage classes: Deny all access
+4. Set it to enabled
+5. Link the GPO to the Workstations OU except the IT OU.
+
+![alt text](/images/Usb.PNG)
+
+![alt text](/images/usb_link.PNG)
