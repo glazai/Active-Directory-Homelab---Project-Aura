@@ -30,3 +30,5 @@ Steps:
 ![alt text](/images/Usb.PNG)
 
 ![alt text](/images/usb_link.PNG)
+
+By not linking the GPO to IT, we ensure that server operations and IT toubleshooting remain unaffected. 
