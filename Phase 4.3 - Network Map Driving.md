@@ -39,6 +39,9 @@ Here is the Network Resource Schema
 
 ![alt text](/images/networkSchema.PNG)
 
-Finally, to test if the configuration worked correctly, I set up the Administrator use to have access to Sales. After forcing the update and signing out and in again, we can see that the network mapping is set up successfully.
+To validate the Item-Level Targeting logic of the Drive Mapping GPO, I temporarily assigned the Administrator account to the SG-Sales-Staff security group and updated it's department attribute to Sales.
+
+After performing a gpupdate/ force and a re-login to refresh the user's security token, I successfully verified that the S:Drive was mapped successfully, confirming that GPO filtering logic is functioning as intended.
+
 
 ![alt text](/images/TestMap.PNG)
