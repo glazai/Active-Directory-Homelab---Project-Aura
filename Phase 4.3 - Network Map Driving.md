@@ -10,6 +10,4 @@ Steps:
     - Adding $, will make the folder to be hidden. Users can not browse the folder by accident , but the GPO can still map it.
 5. Set "Everyone" to Full Control
 
-![alt text](/images/share_sales.PNG)
-
-![alt text](/images/permissions_share.PNG)
+![alt text](/images/share_sales.PNG)    ![alt text](/images/permissions_share.PNG)
