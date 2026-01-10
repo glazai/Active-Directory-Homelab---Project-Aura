@@ -32,3 +32,9 @@ Steps:
     - Select SG-Sales-Staff
 
 ![alt text](/images/target.PNG)    ![alt text](/images/newDriveProperties.PNG)
+
+We will follow the same procedure for the rest of the departments.
+
+Here is the Network Resource Schema
+
+![alt text](/images/networkSchema.PNG)
