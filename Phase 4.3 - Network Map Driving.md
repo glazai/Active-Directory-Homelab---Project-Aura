@@ -38,3 +38,7 @@ We will follow the same procedure for the rest of the departments.
 Here is the Network Resource Schema
 
 ![alt text](/images/networkSchema.PNG)
+
+Finally, to test if the configuration worked correctly, I set up the Administrator use to have access to Sales. After forcing the update and signing out and in again, we can see that the network mapping is set up successfully.
+
+![alt text](/images/TestMap.PNG)
