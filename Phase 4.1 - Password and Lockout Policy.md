@@ -32,7 +32,7 @@ Steps
     - Enforce password history: 24 passwords remembered.
 7. Directly applies to: Click Add and select the group(SG-IT-Staff).
 
-It should look the screenshot below
+It should look the screenshot below  
 
 ![alt text](/images/Pso_It_strict.PNG)
 
