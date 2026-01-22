@@ -1,4 +1,4 @@
-This hypothetical company would not be a company without having an identity. In the next GPO, we are implementing a "corporate" GPO to ensure a consistent look and feel accross all company workstations.
+This hypothetical company would not be a company without having an identity. In the next GPO, we are implementing a "corporate" wallpaper GPO to ensure a consistent look and feel accross all company workstations.
 
 For us to apply a wallpaper, the computer must be able to reach the image file over the network. Therefore the wallpaper itself must be located in a shared drive.
 
