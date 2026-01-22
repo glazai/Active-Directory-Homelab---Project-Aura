@@ -15,3 +15,6 @@ Lab Prerequisites
 - Windows Server 2022
 - Virtual box
 - Virtual Hardware: 2CPUs, 4GB RAM, 50GB Storage
+
+
+Phase 2 of the project is coming soon.
