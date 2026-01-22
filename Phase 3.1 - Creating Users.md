@@ -30,4 +30,4 @@ Verifying the script worked, we check if the users are actually created under AD
 
 ![alt text](/images/final_user.PNG)
 
-Finally we set -ChangePasswordAtLogon as True. This is a security best practice. As an admin, We should not know the user's permanent password. So set a temporary one, and Active Directory forces them to choose their own private password the moment they sit down at their desk. 
+Finally we set -ChangePasswordAtLogon as True. This is a security best practice. As an admin, We should not know the user's permanent password. So set a temporary one, and Active Directory forces them to choose their own private password the moment they sit down at their desk.   
