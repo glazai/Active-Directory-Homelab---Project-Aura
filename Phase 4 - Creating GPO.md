@@ -15,4 +15,4 @@ However, before we start creating any, we need to understand how they are applie
 3. Domain(Setting for the entire auracorp.local)
 4. OU(The most specific)
 
-In this scenario, we will focus more on the security aspect and we will implement 5 GPO, each one representing a different category.
+In this scenario, we will focus more on the security aspect and we will implement 5 GPO, each one representing a different category.  
