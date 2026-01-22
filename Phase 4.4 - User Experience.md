@@ -23,5 +23,5 @@ Steps:
 Next we need to Link the GPO by dragging the GPO to the appropriate OU. In our case is AuraCorp OU.
 
 After forcing the update and signing out and in we should now see the corporate wallpaper.
-
+  
 ![alt text](/images/Wallpaper.PNG)
